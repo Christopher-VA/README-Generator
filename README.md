@@ -8,9 +8,7 @@
 
   * [Usage](#usage)
 
-  * [Contributing](#contributing)
-
-  * [Tests](#tests)
+  * [Images](#images)
 
   * [Questions](#questions)
 
