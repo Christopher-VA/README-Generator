@@ -38,6 +38,17 @@ const questions = [{
     type: 'input',
     name: 'test',
     message: 'How to test if the project works',
+},
+{
+    type: 'list',
+    name: 'license',
+    message: 'what license are you using',
+    choices: ['MIT', 'GNU', 'Apache']
+},
+{
+    type: 'input',
+    name: 'email',
+    message: 'what your email adress',
 }
 ];
 

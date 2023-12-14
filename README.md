@@ -1,29 +1,30 @@
-# Chris's README Generator
+  # README Generator
 
   ## Description
-  A README generator so that people may spend more time working on thier projects
+  In this project I have made a generator for professional README'S which will allow users to focus more time on their actuall projects over making a whole README.
 
   ## Table of Contents
+  * [Installation](#installation)
 
+  * [Usage](#usage)
+
+  * [Contributing](#contributing)
+
+  * [Tests](#tests)
+
+  * [Questions](#questions)
 
   ## Installation
-  cloning the project from my github using git bash
+  npm i
 
   ## Usage
-  You type node index.js then some questions will appear and you'll have to answer them all then the README will be created
+  By going to the Terminal and typing 'node index.js' then answering all the question shown
 
-  ## License
-  
-  undefined
-  undefined
-  
-
-  ## Contributing
-  I completed all the work that has been applied into the project
-
-  ## Tests
-  Once you have filled in all the question once done check the README within the file of this generator and see if your work appeared
+  ## Images
+  ![Alt text](assets/images/README.PNG)
+  ![Alt text](assets/images/Terminal.PNG)
 
   ## Questions
   Here are ways to contact me if you have any questions
-  Github: Chris-VA
+  Github: [Link text](https://github.com/Christopher-VA)
+  Email: [link text](cvonaltenstadt@gmail.com)
